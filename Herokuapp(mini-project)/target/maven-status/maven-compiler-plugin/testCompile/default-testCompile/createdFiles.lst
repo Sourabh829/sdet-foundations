@@ -1,0 +1,5 @@
+com\herokuapp\base\BaseTest.class
+com\herokuapp\pages\HomePage.class
+com\herokuapp\pages\LoginPage.class
+com\herokuapp\tests\AuthenticationE2ETests.class
+com\herokuapp\pages\SecureAreaPage.class
